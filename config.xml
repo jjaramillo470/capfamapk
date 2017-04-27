@@ -6,7 +6,7 @@
     <name>CAPFAM</name>
     <description>Apk de estudio</description>
     <author href="" email="jjaramillo470@gmail.com">Juan Jaramillo</author>
-    <preference name="phonegap-version" value="cli-6.3.0" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
     <preference name="android-build-tool" value="gradle" />
     <preference name="orientation" value="default" />
     <preference name="fullscreen" value="true" />
